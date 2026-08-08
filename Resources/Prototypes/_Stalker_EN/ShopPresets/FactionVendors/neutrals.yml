@@ -236,12 +236,15 @@
       ClothingHeadHelmetVityazNeutral: 3000 # T3 PVP
       # OuterClothing #
       ClothingOuterJacketNeytral: 100 # T1 - uni
-      STClothingOuterArmorLightPlateVestBaseStalker: 1250 # T2 - PvP
-      ClothingOuterArmor6B2: 2000
+      # ST:OW - Begin
+      #STClothingOuterArmorLightPlateVestBaseStalker: 1250 # T2 - PvP
+      #ClothingOuterArmor6B2: 2000
+      # ST:OW - End
       STClothingOuterArmorRCBZ: 1800 # T2 - ENV
       ClothingOuterArmorZaryaNeutral: 2000 # T2 - PVE
       STSkinsKitNeutral: 500
       STClothingOuterArmorSevaNeutral: 4500
+      STOWClothingOuterArmorT3VestNeutral: 4800 # ST:OW T3 - PvP // 20% off price
       ClothingOuterArmorAborigineNeutral: 8000 # T3 - PVE// 20% off price
       STClothingOuterArmorNeutralBadger: 12000 # T3 - PVE
 

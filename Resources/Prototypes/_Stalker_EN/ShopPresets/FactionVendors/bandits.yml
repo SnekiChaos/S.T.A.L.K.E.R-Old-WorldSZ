@@ -318,13 +318,17 @@
           # OuterClothing #
         ClothingOuterCoatBanditBrown: 400 # T1 - uni
         ClothingOuterCoatBanditBlack: 400 # T1 - uni
-        STClothingOuterArmorLightPlateVestBaseBand: 800 # T2 - PvP
+        # ST:OW - Begin
+        #STClothingOuterArmorLightPlateVestBaseBand: 800 # T2 - PvP
+        STOWClothingOuterArmorT2VestBandit: 1000 # T2 - PvP
+        # ST:OW - End
         SetArmoutJacketBanditBuyableCrate: 1000 # T2 - PvP
         ClothingOuterArmourCoatBanditBrown: 1050 # T2 - PvP
         ClothingOuterArmourCoatBanditBlack: 1050 # T2 - PvP
         STClothingOuterArmorBandits: 1500 #T2
         ClothingOuterArmorSevaBandit: 4500 # T3 - PVE
         STClothingOuterArmorRCBZ: 1200
+        STOWClothingOuterArmorT3VestBandit: 6000 # ST:OW T3 - PvP
         ClothingOuterArmorBandits: 9000 #T3 - PVP
 
     - name: shop-category-storage-and-containers

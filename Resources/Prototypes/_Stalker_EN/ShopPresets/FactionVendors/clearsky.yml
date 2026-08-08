@@ -303,11 +303,16 @@
 
       # OuterClothing #
       ClothingOuterJacketCN: 60 # T1 - PVE
-      STClothingOuterArmorLightPlateVestBaseClearSky: 1100 # T2 - PvP
-      ClothingOuterArmor6B2: 1450 # T2 - PvP
+      # ST:OW - Begin
+      #STClothingOuterArmorLightPlateVestBaseClearSky: 1100 # T2 - PvP
+      #ClothingOuterArmor6B2: 1450 # T2 - PvP
+      # ST:OW - End
       ClothingOuterArmorRCBZCN: 1450 # T2 - ENV
-      ClothingOuterArmorCN1: 2100 # T2 - universal
-      STClothingOuterArmorLightPlateVestBaseANABlue: 9500 # T3 - PVP
+      ClothingOuterArmorCN1: 2100 # T2 - universal\
+      # ST:OW - Begin
+      #STClothingOuterArmorLightPlateVestBaseANABlue: 9500 # T3 - PVP
+      STOWClothingOuterArmorT3VestClearSky: 4000 # T3 - PvP // 30% off price
+      # ST:OW - End
       ClothingOuterArmorCN3a: 12000 # T3 - PVE
       ClothingOuterArmorSevaCN: 3600 # T3 - ENVl
       STClothingOuterArmorCN-4a: 3600 # Illusion of choice

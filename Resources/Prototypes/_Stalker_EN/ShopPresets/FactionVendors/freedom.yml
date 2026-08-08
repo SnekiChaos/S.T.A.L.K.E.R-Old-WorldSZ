@@ -212,9 +212,10 @@
         ClothingHeadAssaultHelmetFreedom: 3500 # T3
           # OuterClothing #
         ClothingOuterJacketFreedom: 60 # T1 - PVE
-        STClothingOuterArmorLightPlateVestBaseFreedom: 1000 # T2 - PvP
+        #STClothingOuterArmorLightPlateVestBaseFreedom: 1000 # ST:OW
         ClothingOuterArmorRCBZFreedom: 1700 # T2 - ENV
         ClothingOuterArmorFreedomWind: 2000 # T2
+        STOWClothingOuterArmorT3VestFreedom: 6000 # ST:OW T3 - PvP
         SetFreedomDefenderBuyableCrate: 12000 # T3
         ClothingOuterArmorAborigineFreedom: 8500 # T3
         ClothingOuterArmorSevaFreedom: 3200 # T3 - ENV

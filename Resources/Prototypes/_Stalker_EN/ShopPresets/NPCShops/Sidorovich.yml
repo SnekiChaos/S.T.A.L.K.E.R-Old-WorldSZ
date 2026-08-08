@@ -302,10 +302,10 @@
         ClothingHeadHelmetSH68: 250 # T1 - PVP:
           # OuterClothing #
         SetJacketNoviceWhiteBuyableCrate: 100 # T1 - uni
-        STClothingOuterArmorLightPlateVestBaseStalker: 1250 # T2 - PvP
+        #STClothingOuterArmorLightPlateVestBaseStalker: 1250 # ST:OW
         SetArmourJacketNoviceBrezentBuyableCrate: 1500 # T2 - PvP
         SetArmourJacketNoviceWhiteBuyableCrate: 1500 # T2 - PvP
-        ClothingOuterArmor6B2: 2000 # T2 - PvP
+        #ClothingOuterArmor6B2: 2000 # ST:OW
         STClothingOuterArmorRCBZ: 1800 # T2 - ENV
         ClothingOuterArmorZaryaStalker: 2000 # T2 - PVE
         SetZaryaStalkerBuyableCrate: 3300 # T2 - ENV

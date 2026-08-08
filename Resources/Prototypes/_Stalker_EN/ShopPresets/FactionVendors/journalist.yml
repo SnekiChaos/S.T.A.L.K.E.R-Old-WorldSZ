@@ -34,8 +34,9 @@
         ClothingHeadHelmetLight: 300 # T1
         # OuterClothing #
         STClothingOuterPressVest: 100 # T1
-        STClothingOuterArmorPressVest: 1000 # T2
+        #STClothingOuterArmorPressVest: 1000 # ST:OW
         ClothingOuterArmorRCBZJournalists: 1000 #T2
+        STOWClothingOuterArmorT3VestJournalist: 6000 # ST:OW T3 - PvP
     - name: shop-category-storage-and-containers
       priority: 5
       items:

@@ -248,7 +248,10 @@
     state: icon
   - type: SpawnItemsOnUse
     items:
-    - id: STClothingOuterArmorLightPlateVestBaseMilitary
+    # ST:OW - Begin
+    #- id: STClothingOuterArmorLightPlateVestBaseMilitary
+    - id: STOWClothingOuterArmorT2VestMilitary
+    # ST:OW - End
     - id: Zipties
     - id: Zipties
     - id: PowerCellHyper
@@ -312,7 +315,10 @@
     state: icon
   - type: SpawnItemsOnUse
     items:
-    - id: STClothingOuterArmorLightPlateVestBaseMilitary
+    # ST:OW - Begin
+    #- id: STClothingOuterArmorLightPlateVestBaseMilitary
+    - id: STOWClothingOuterArmorT2VestMilitary
+    # ST:OW - End
     - id: Zipties
     - id: Zipties
     - id: PowerCellHyper
@@ -376,7 +382,10 @@
     state: icon
   - type: SpawnItemsOnUse
     items:
-    - id: STClothingOuterArmorLightPlateVestBaseMilitary
+    # ST:OW - Begin
+    #- id: STClothingOuterArmorLightPlateVestBaseMilitary
+    - id: STOWClothingOuterArmorT2VestMilitary
+    # ST:OW - End
     - id: Zipties
     - id: Zipties
     - id: PowerCellHyper
@@ -438,7 +447,10 @@
     state: icon
   - type: SpawnItemsOnUse
     items:
-    - id: STClothingOuterArmorLightPlateVestBaseMilitary
+    # ST:OW - Begin
+    #- id: STClothingOuterArmorLightPlateVestBaseMilitary
+    - id: STOWClothingOuterArmorT2VestMilitary
+    # ST:OW - End
     - id: Zipties
     - id: Zipties
     - id: PowerCellHyper
@@ -496,7 +508,10 @@
     state: icon
   - type: SpawnItemsOnUse
     items:
-    - id: STClothingOuterArmorLightPlateVestBaseMilitary
+    # ST:OW - Begin
+    #- id: STClothingOuterArmorLightPlateVestBaseMilitary
+    - id: STOWClothingOuterArmorT2VestMilitary
+    # ST:OW - End
     - id: Zipties
     - id: Zipties
     - id: PowerCellHyper
@@ -566,7 +581,10 @@
     state: icon
   - type: SpawnItemsOnUse
     items:
-    - id: STClothingOuterArmorLightPlateVestBaseMilitary
+    # ST:OW - Begin
+    #- id: STClothingOuterArmorLightPlateVestBaseMilitary
+    - id: STOWClothingOuterArmorT2VestMilitary
+    # ST:OW - End
     - id: Zipties
     - id: Zipties
     - id: PowerCellHyper

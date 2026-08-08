@@ -188,6 +188,7 @@
         # OuterClothing #
         STClothingOuterArmorLightPlateVestBaseMilitary: 750 # T2 - PvP
         ClothingOuterArmor6B2: 1200 # T2 - PvP
+        STOWClothingOuterArmorT2VestMilitary: 750 # T2 - PvP
         ClothingOuterArmorMilitarySpark: 1750 # T2 - ENV
         ClothingOuterArmorZaryaMilitary: 1750 # T2 - universal
         STClothingOuterArmorLightPlateVestBaseANAgreen: 2250 # T3 - PVP
@@ -682,15 +683,20 @@
       ClothingHeadAssaultHelmetMilitary: 2275 # T3 - PVP
 
       # OuterClothing #
-      STClothingOuterArmorLightPlateVestBaseMilitary: 750 # T2 - PvP Adjusted
-      ClothingOuterArmor6B2: 1200 # T2 - PvP Adjusted
+      # ST:OW - Begin
+      #STClothingOuterArmorLightPlateVestBaseMilitary: 750 # T2 - PvP Adjusted
+      #ClothingOuterArmor6B2: 1200 # T2 - PvP Adjusted
+      STOWClothingOuterArmorT2VestMilitary: 750 # T2 - PvP // Significantly reduced price
+      # ST:OW - End
       ClothingOuterArmorZaryaMilitary: 1460 # T2 - Universal
       ClothingOuterArmorSevaMilitary: 4550 # T2 - ENV
       #ClothingOuterArmorMilitarySpark: 4725 # T2 - ENV
       STClothingOuterArmorLightPlateVestBasePSZ7v3: 7800 # T3 - PVP
       STClothingOuterArmorLightPlateVestBasePSZ7v1: 7800 # T3 - PVP
-      STClothingOuterArmorLightPlateVestBaseANAgray: 7800 # T3 - PvP
-      STClothingOuterArmorLightPlateVestBaseANAgreen: 7800 # T3 - PVP
+      # ST:OW - Begin
+      #STClothingOuterArmorLightPlateVestBaseANAgray: 7800 # T3 - PvP
+      #STClothingOuterArmorLightPlateVestBaseANAgreen: 7800 # T3 - PVP
+      # ST:OW - End
       STClothingOuterArmorMilitaryBadger: 8500 # T3 - PVP, Mix
 
   - name: shop-category-storage-and-containers
